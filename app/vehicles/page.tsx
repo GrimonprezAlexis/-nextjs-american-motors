@@ -1,15 +1,9 @@
 "use client";
 
 import { motion } from "framer-motion";
-import {
-  ChevronDown,
-  ChevronRight,
-  Filter,
-  Search,
-  SlidersHorizontal,
-} from "lucide-react";
+import { ChevronRight, Filter, Search, SlidersHorizontal } from "lucide-react";
 import Image from "next/image";
-import { useState } from "react";
+//import { useState } from "react";
 
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -103,8 +97,8 @@ const vehicles = [
 ];
 
 export default function VehiclesPage() {
-  const [selectedVehicle, setSelectedVehicle] = useState(null);
-  const [activeFilter, setActiveFilter] = useState("all");
+  //const [selectedVehicle, setSelectedVehicle] = useState(null);
+  //const [activeFilter, setActiveFilter] = useState("all");
 
   return (
     <div className="min-h-screen bg-gray-50">

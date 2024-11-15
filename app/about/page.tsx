@@ -73,21 +73,21 @@ export default function AboutPage() {
                     Notre Histoire
                   </h2>
                   <p className="text-gray-600 mb-6">
-                    Fondée en 2010, Americaine Motor est née d'une passion pour
-                    les véhicules américains et d'un désir de partager cette
-                    passion avec les enthousiastes en France. Notre équipe de
-                    professionnels qualifiés combine expertise technique et
+                    Fondée en 2010, Americaine Motor est née d&apos;une passion
+                    pour les véhicules américains et d&apos;un désir de partager
+                    cette passion avec les enthousiastes en France. Notre équipe
+                    de professionnels qualifiés combine expertise technique et
                     amour des voitures américaines pour offrir un service
                     inégalé.
                   </p>
                   <p className="text-gray-600">
                     Au fil des années, nous avons développé un réseau solide de
                     partenaires aux États-Unis et au Canada, nous permettant
-                    d'importer les meilleures voitures américaines pour nos
+                    d&apos;importer les meilleures voitures américaines pour nos
                     clients exigeants. Notre engagement envers la qualité et la
-                    satisfaction client a fait d'Americaine Motor une référence
-                    dans le domaine des véhicules américains en Savoie et
-                    au-delà.
+                    satisfaction client a fait d&apos;Americaine Motor une
+                    référence dans le domaine des véhicules américains en Savoie
+                    et au-delà.
                   </p>
                 </motion.div>
               </div>

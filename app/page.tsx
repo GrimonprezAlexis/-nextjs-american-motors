@@ -268,7 +268,7 @@ export default function HomePage() {
                         ))}
                       </div>
                       <p className="text-gray-300 mb-4 italic">
-                        "{review.text}"
+                        &quot;{review.text}&quot;
                       </p>
                       <p className="font-semibold text-red-400">
                         {review.author}

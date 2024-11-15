@@ -1,12 +1,10 @@
 import "@/app/styles/globals.css";
+import { Facebook, Instagram, Mail, MapPin, Phone } from "lucide-react";
 import { Inter } from "next/font/google";
-import { Car, MapPin, Phone, Mail, Instagram, Facebook } from "lucide-react";
 import Link from "next/link";
 
-import { Button } from "@/components/ui/button";
-import SocialBar from "@/components/social-bar";
-import { QuoteFormDialog } from "@/components/quote-form-dialog";
 import Navbar from "@/components/navbar";
+import SocialBar from "@/components/social-bar";
 
 const inter = Inter({ subsets: ["latin"] });
 

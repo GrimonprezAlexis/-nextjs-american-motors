@@ -1,10 +1,9 @@
 "use client";
 
-import { motion, AnimatePresence } from "framer-motion";
-import { Menu, X, ChevronDown, Car } from "lucide-react";
-import Image from "next/image";
+import { AnimatePresence, motion } from "framer-motion";
+import { Car, ChevronDown, Menu, X } from "lucide-react";
 import Link from "next/link";
-import { useState, useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 
 import { Button } from "@/components/ui/button";
 import { QuoteFormDialog } from "./quote-form-dialog";
